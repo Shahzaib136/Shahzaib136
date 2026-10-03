@@ -8,14 +8,6 @@
 
 <br/>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=Shahzaib136.Shahzaib136&label=PROFILE%20VIEWS&labelColor=%23203a43&countColor=%2300b4d8&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/Shahzaib136?tab=followers">
-  <img src="https://img.shields.io/github/followers/Shahzaib136?style=for-the-badge&logo=github&color=0077b6&label=FOLLOWERS" alt="Followers" />
-</a>
-<a href="https://github.com/Shahzaib136?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Shahzaib136&query=$.public_repos&label=REPOS&style=for-the-badge&logo=github&color=2c5364" alt="Public Repos" />
-</a>
-
 </div>
 
 ---
@@ -27,14 +19,13 @@
 <td width="55%" valign="top">
 
 ### 🎯 Who I Am
-I'm a **second-year Computer Science student** specializing in **cybersecurity**. I like understanding how systems work from the network layer down to the machine code, and then using that knowledge to defend them.
+I'm a **Computer Science student** specializing in **cybersecurity**. I like understanding how systems work from the network layer down to the machine code, and then using that knowledge to defend them.
 
 ### 💼 What I Do
 - 🔐 **Cybersecurity Intern** at Technify (Batch 2026)
 - 🎓 **CCNA 200-301 Instructor** at IIT Qasimabad
 - 🧪 Build hands-on **security labs** and training material
 - 📝 Write clear **technical documentation** and curriculum
-- 🌐 Created a full-stack cybersecurity-themed **portfolio site** (React, Node.js, Express, MongoDB)
 
 </td>
 <td width="45%" valign="top">
@@ -54,16 +45,6 @@ I'm a **second-year Computer Science student** specializing in **cybersecurity**
 </td>
 </tr>
 </table>
-
-```python
-class Shahzaib:
-    role       = "CS Student specializing in Cybersecurity"
-    internship = "Technify Cybersecurity Internship (Batch 2026)"
-    teaching   = "CCNA 200-301 @ IIT Qasimabad"
-    focus      = ["Network Security", "Windows Internals", "C & x86 Assembly", "AI-driven Defense"]
-    mindset    = ["Learn by building", "Document everything", "Share what I learn"]
-    motto      = "Break it in the lab, secure it in the real world."
-```
 
 > 💡 *"The best way to learn security is to build the lab, break it, then fix it, and write down what you learned."*
 
@@ -117,10 +98,6 @@ class Shahzaib:
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahzaib136/Shahzaib136/output/github-snake-dark.svg" />
